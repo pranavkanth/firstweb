@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+table {
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid black;
+}
+
+form {
+    border: 2px solid black;
+}
+/* 
+div {
+    border: 1px solid black;
+} */
